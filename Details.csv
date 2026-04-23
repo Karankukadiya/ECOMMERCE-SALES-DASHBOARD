@@ -1,0 +1,851 @@
+orderID,Amount,Profit,quantity,category,sub-category,payment mode
+ORD1000,2903.15,-295.26,9,Clothing,Kurtis,Debit Card
+ORD1001,949.27,-78.28,3,Electronics,Speakers,Net Banking
+ORD1002,3894.61,851.22,3,Home & Kitchen,Storage,Net Banking
+ORD1003,4043.36,-974.56,2,Beauty & Health,Haircare,COD
+ORD1004,4881.12,675.51,5,Electronics,Chargers,Debit Card
+ORD1005,4891.05,-178.79,2,Beauty & Health,Supplements,Net Banking
+ORD1006,1122.64,1258.13,2,Electronics,Chargers,UPI
+ORD1007,4369.84,1026.12,9,Beauty & Health,Supplements,Net Banking
+ORD1008,3296.76,947.07,9,Clothing,Jeans,COD
+ORD1009,699.01,-830.35,1,Beauty & Health,Makeup,Debit Card
+ORD1010,577.36,-504.15,9,Beauty & Health,Supplements,COD
+ORD1011,1671.84,404.76,2,Beauty & Health,Makeup,Debit Card
+ORD1012,4478.56,934.24,5,Home & Kitchen,Cookware,Credit Card
+ORD1013,1360.19,1095.9,8,Home & Kitchen,Cookware,UPI
+ORD1014,3144.34,843.68,4,Home & Kitchen,Decor,Net Banking
+ORD1015,4569.81,-535.9,3,Clothing,T-Shirts,UPI
+ORD1016,2015.02,438.48,8,Clothing,T-Shirts,Debit Card
+ORD1017,2393.13,485.11,4,Beauty & Health,Makeup,COD
+ORD1018,3066.97,1267.13,7,Electronics,Chargers,Net Banking
+ORD1019,3903.04,966.56,5,Electronics,Chargers,Credit Card
+ORD1020,3890.5,77.41,10,Beauty & Health,Supplements,UPI
+ORD1021,3535.74,208.99,8,Home & Kitchen,Storage,COD
+ORD1022,550.45,230.07,9,Beauty & Health,Supplements,UPI
+ORD1023,1095.03,1261.06,1,Electronics,Chargers,Net Banking
+ORD1024,532.36,1470.99,2,Electronics,Speakers,Net Banking
+ORD1025,4726.95,1013.77,5,Home & Kitchen,Decor,Credit Card
+ORD1026,3095.51,178.95,1,Home & Kitchen,Bedsheets,Credit Card
+ORD1027,2583.32,1431.61,10,Home & Kitchen,Decor,Net Banking
+ORD1028,432.05,1338.85,5,Beauty & Health,Haircare,COD
+ORD1029,671.46,189.03,4,Electronics,Earphones,COD
+ORD1030,1104.73,737.97,5,Clothing,T-Shirts,UPI
+ORD1031,792.91,-556.75,8,Electronics,Earphones,UPI
+ORD1032,683.23,1450.82,3,Electronics,Smart Watches,Net Banking
+ORD1033,2287.46,688.46,6,Clothing,T-Shirts,Credit Card
+ORD1034,1347.78,0.39,7,Home & Kitchen,Storage,Credit Card
+ORD1035,3528.01,488.89,9,Clothing,Sarees,Credit Card
+ORD1036,3171.56,1025.75,9,Beauty & Health,Haircare,Debit Card
+ORD1037,3685.65,-305.04,1,Beauty & Health,Haircare,Debit Card
+ORD1038,2998.82,-105.96,4,Beauty & Health,Supplements,COD
+ORD1039,4963.9,675.94,9,Clothing,T-Shirts,Credit Card
+ORD1040,423.16,944.57,4,Beauty & Health,Makeup,Credit Card
+ORD1041,616.49,597.77,3,Electronics,Earphones,Credit Card
+ORD1042,536.21,1380.75,9,Electronics,Chargers,COD
+ORD1043,4969.34,795.23,8,Beauty & Health,Supplements,Debit Card
+ORD1044,2338.42,67.21,2,Beauty & Health,Supplements,Debit Card
+ORD1045,3401.61,19.44,8,Beauty & Health,Skincare,UPI
+ORD1046,3422.71,-109.28,3,Electronics,Smart Watches,Net Banking
+ORD1047,3860.98,-687.1,5,Clothing,Jeans,Credit Card
+ORD1048,3082.93,1436.72,5,Clothing,T-Shirts,Credit Card
+ORD1049,1359.74,587.27,4,Electronics,Smart Watches,COD
+ORD1050,2151.82,-846.77,3,Clothing,Jeans,COD
+ORD1051,1157.86,930.3,4,Electronics,Smart Watches,UPI
+ORD1052,2496.98,701.28,4,Clothing,Jeans,Net Banking
+ORD1053,2873.62,614.62,2,Home & Kitchen,Bedsheets,Debit Card
+ORD1054,4826.99,-118.49,7,Home & Kitchen,Cookware,COD
+ORD1055,1541.8,1007.59,8,Beauty & Health,Makeup,Credit Card
+ORD1056,1424.12,104.91,3,Home & Kitchen,Storage,Net Banking
+ORD1057,4885.14,257.72,5,Electronics,Chargers,COD
+ORD1058,1641.34,1418.95,6,Clothing,Kurtis,UPI
+ORD1059,4303.62,-83.28,5,Home & Kitchen,Cookware,COD
+ORD1060,408.59,415.71,3,Electronics,Smart Watches,Credit Card
+ORD1061,3096.28,66.16,7,Clothing,Sarees,COD
+ORD1062,2843.8,611.88,2,Clothing,Kurtis,COD
+ORD1063,2223.19,1273.13,10,Home & Kitchen,Bedsheets,Credit Card
+ORD1064,1784.2,1100.86,8,Electronics,Earphones,UPI
+ORD1065,1897.7,663.25,5,Clothing,T-Shirts,Debit Card
+ORD1066,799.96,1351.42,9,Beauty & Health,Haircare,Net Banking
+ORD1067,4295.08,304.31,1,Clothing,Jeans,Debit Card
+ORD1068,3820.06,1497.84,8,Beauty & Health,Haircare,Credit Card
+ORD1069,1134.9,1032.1,9,Home & Kitchen,Bedsheets,Debit Card
+ORD1070,3938.98,1305.42,9,Electronics,Earphones,Debit Card
+ORD1071,2671.06,-91.14,7,Clothing,Sarees,COD
+ORD1072,4967.6,-962.77,2,Home & Kitchen,Storage,Debit Card
+ORD1073,2642.93,1491.87,8,Electronics,Earphones,Debit Card
+ORD1074,2032.84,715.93,8,Beauty & Health,Makeup,Debit Card
+ORD1075,3858.18,28.29,7,Clothing,Jeans,Credit Card
+ORD1076,2296.4,414.69,5,Clothing,Sarees,COD
+ORD1077,1004.08,304.86,3,Electronics,Chargers,Debit Card
+ORD1078,3625.17,459.16,4,Beauty & Health,Skincare,Credit Card
+ORD1079,1428.32,398.66,7,Home & Kitchen,Cookware,Credit Card
+ORD1080,3939.5,785.49,7,Clothing,Jeans,Debit Card
+ORD1081,2184.29,-487.88,1,Beauty & Health,Haircare,Credit Card
+ORD1082,3402.07,1358.59,5,Beauty & Health,Supplements,COD
+ORD1083,4137.69,-45.54,8,Clothing,T-Shirts,Net Banking
+ORD1084,2812.13,520.16,1,Beauty & Health,Makeup,Credit Card
+ORD1085,4151.85,-934.97,10,Beauty & Health,Supplements,COD
+ORD1086,1429.48,10.18,1,Home & Kitchen,Decor,Net Banking
+ORD1087,734.69,1077.61,2,Home & Kitchen,Bedsheets,Debit Card
+ORD1088,3259.64,136.44,3,Clothing,Sarees,UPI
+ORD1089,1003.95,1383,9,Clothing,T-Shirts,Net Banking
+ORD1090,3018.27,662.07,3,Home & Kitchen,Decor,Net Banking
+ORD1091,3713.24,-140.26,4,Electronics,Smart Watches,Credit Card
+ORD1092,1590.7,898.75,9,Electronics,Chargers,COD
+ORD1093,3930.61,342.17,2,Home & Kitchen,Storage,Net Banking
+ORD1094,3915.78,1234.48,9,Beauty & Health,Supplements,Debit Card
+ORD1095,4663.48,548.13,8,Home & Kitchen,Cookware,Debit Card
+ORD1096,3319.6,-41.73,7,Electronics,Chargers,COD
+ORD1097,1296.03,924.85,5,Home & Kitchen,Decor,UPI
+ORD1098,813.53,203.29,2,Beauty & Health,Haircare,Debit Card
+ORD1099,1177.91,947.28,8,Beauty & Health,Haircare,Net Banking
+ORD1100,2345.6,491.75,9,Beauty & Health,Haircare,Credit Card
+ORD1101,1051.55,612.15,5,Electronics,Earphones,Debit Card
+ORD1102,2431.19,948.27,5,Beauty & Health,Makeup,COD
+ORD1103,4603.24,-812.5,2,Home & Kitchen,Bedsheets,UPI
+ORD1104,407.72,881.65,1,Beauty & Health,Skincare,COD
+ORD1105,2525.45,985.26,4,Electronics,Earphones,COD
+ORD1106,2808.41,1305.72,7,Beauty & Health,Haircare,Debit Card
+ORD1107,4663.3,1152.77,4,Home & Kitchen,Cookware,Credit Card
+ORD1108,718.13,689.9,5,Home & Kitchen,Bedsheets,Debit Card
+ORD1109,1575.28,-193.57,8,Beauty & Health,Haircare,UPI
+ORD1110,639.58,975.72,7,Home & Kitchen,Decor,Net Banking
+ORD1111,3552.25,1310.94,7,Electronics,Earphones,Credit Card
+ORD1112,1963.33,-72.69,10,Clothing,Kurtis,COD
+ORD1113,1441.06,1471.98,4,Clothing,T-Shirts,UPI
+ORD1114,2244.29,893.45,5,Beauty & Health,Makeup,COD
+ORD1115,1289.09,1104.67,5,Home & Kitchen,Cookware,COD
+ORD1116,2091.1,665.83,9,Home & Kitchen,Bedsheets,Credit Card
+ORD1117,2087.28,997.19,1,Clothing,Sarees,Credit Card
+ORD1118,3659.82,1435.83,8,Beauty & Health,Supplements,Net Banking
+ORD1119,4439.37,1491.84,4,Clothing,Jeans,Debit Card
+ORD1120,1401.48,861.51,1,Home & Kitchen,Cookware,UPI
+ORD1121,1320.06,368.47,2,Electronics,Earphones,Debit Card
+ORD1122,3653.3,1370.93,6,Home & Kitchen,Storage,COD
+ORD1123,4618.54,1450.46,6,Beauty & Health,Makeup,Credit Card
+ORD1124,4916.94,889.6,9,Home & Kitchen,Bedsheets,COD
+ORD1125,1459.89,1229.46,1,Home & Kitchen,Decor,Debit Card
+ORD1126,3411.95,727.54,8,Electronics,Earphones,Debit Card
+ORD1127,770.15,-301.83,10,Home & Kitchen,Decor,COD
+ORD1128,4217.66,1165.53,10,Beauty & Health,Haircare,UPI
+ORD1129,3858.93,752.93,3,Home & Kitchen,Storage,COD
+ORD1130,543.07,834.87,7,Beauty & Health,Supplements,Net Banking
+ORD1131,3589.04,56.34,2,Home & Kitchen,Bedsheets,COD
+ORD1132,4887.12,1009.01,5,Beauty & Health,Supplements,COD
+ORD1133,3313.17,543.03,6,Beauty & Health,Supplements,Net Banking
+ORD1134,2470.6,942.31,2,Home & Kitchen,Bedsheets,Net Banking
+ORD1135,2377.35,647.68,8,Beauty & Health,Haircare,Net Banking
+ORD1136,2324.21,212.72,10,Beauty & Health,Skincare,COD
+ORD1137,2356.46,-732.13,10,Home & Kitchen,Decor,COD
+ORD1138,2369.77,860.96,2,Clothing,Jeans,Net Banking
+ORD1139,1238.95,581.07,4,Home & Kitchen,Bedsheets,Credit Card
+ORD1140,507.66,1282.09,2,Electronics,Earphones,UPI
+ORD1141,869.49,690.58,1,Clothing,Jeans,Debit Card
+ORD1142,2612.12,1385.53,6,Clothing,Jeans,Net Banking
+ORD1143,4231.51,1208.76,1,Home & Kitchen,Storage,COD
+ORD1144,2015.7,-800.41,1,Clothing,Sarees,UPI
+ORD1145,2617.36,21.46,4,Home & Kitchen,Decor,Credit Card
+ORD1146,938.97,1218.79,3,Beauty & Health,Supplements,COD
+ORD1147,3544.43,-195.36,1,Home & Kitchen,Storage,Debit Card
+ORD1148,2155.27,764.27,7,Home & Kitchen,Decor,UPI
+ORD1149,3828.08,806.32,7,Home & Kitchen,Storage,Credit Card
+ORD1150,512.79,1161.53,1,Home & Kitchen,Cookware,Debit Card
+ORD1151,4921.99,-4.11,5,Beauty & Health,Supplements,COD
+ORD1152,1643.24,980.02,2,Home & Kitchen,Cookware,Net Banking
+ORD1153,1549.81,595.33,7,Home & Kitchen,Decor,Net Banking
+ORD1154,3513.46,272.7,2,Electronics,Chargers,Debit Card
+ORD1155,439.92,1371.93,10,Electronics,Chargers,Net Banking
+ORD1156,3781.07,-286.53,9,Electronics,Chargers,Credit Card
+ORD1157,2129.2,-508.44,8,Home & Kitchen,Cookware,COD
+ORD1158,727.21,-4.61,5,Clothing,Jeans,Credit Card
+ORD1159,1044.8,511.61,3,Beauty & Health,Makeup,COD
+ORD1160,1600.12,595.48,9,Beauty & Health,Haircare,UPI
+ORD1161,4585.3,1223.1,10,Electronics,Chargers,COD
+ORD1162,1318.28,188.75,4,Beauty & Health,Skincare,COD
+ORD1163,4977.55,283.01,8,Beauty & Health,Supplements,UPI
+ORD1164,4290.5,458.83,2,Home & Kitchen,Bedsheets,Credit Card
+ORD1165,1277.91,180.72,6,Clothing,Sarees,Credit Card
+ORD1166,4174,1261.88,1,Clothing,Jeans,Net Banking
+ORD1167,4848.36,829.53,10,Home & Kitchen,Storage,Net Banking
+ORD1168,1392.56,-750.48,5,Home & Kitchen,Storage,COD
+ORD1169,1460.1,-540.92,9,Home & Kitchen,Cookware,Debit Card
+ORD1170,1078.6,359.83,10,Clothing,Jeans,Credit Card
+ORD1171,1730.91,888.68,1,Home & Kitchen,Decor,Credit Card
+ORD1172,1856.67,-94.56,2,Clothing,Sarees,UPI
+ORD1173,824.02,-36.37,7,Beauty & Health,Skincare,Debit Card
+ORD1174,1666.52,641.35,9,Clothing,T-Shirts,UPI
+ORD1175,2975.22,994.34,2,Beauty & Health,Supplements,UPI
+ORD1176,2588.87,-61.72,4,Home & Kitchen,Decor,COD
+ORD1177,3157.06,1475.05,8,Home & Kitchen,Bedsheets,COD
+ORD1178,605.72,-980.63,4,Home & Kitchen,Storage,Net Banking
+ORD1179,1554.44,34.61,9,Beauty & Health,Supplements,Credit Card
+ORD1180,2782.43,1164.87,5,Clothing,T-Shirts,COD
+ORD1181,2560.94,26.43,2,Electronics,Earphones,UPI
+ORD1182,3905.83,998.52,6,Clothing,Jeans,UPI
+ORD1183,3973.03,564.35,6,Beauty & Health,Makeup,Debit Card
+ORD1184,2963.58,-199.86,10,Beauty & Health,Haircare,Credit Card
+ORD1185,3910.81,1426.77,8,Electronics,Smart Watches,UPI
+ORD1186,2544.09,-986.4,6,Home & Kitchen,Storage,Debit Card
+ORD1187,1868.51,-654.84,2,Clothing,Kurtis,Credit Card
+ORD1188,4303.67,735.58,8,Home & Kitchen,Bedsheets,UPI
+ORD1189,216.92,1245.91,5,Electronics,Smart Watches,Debit Card
+ORD1190,1799.76,315.08,4,Electronics,Earphones,UPI
+ORD1191,4934.12,202.04,8,Clothing,Sarees,Debit Card
+ORD1192,3138.76,-591.58,9,Beauty & Health,Supplements,COD
+ORD1193,2457.26,1114.15,6,Clothing,T-Shirts,Net Banking
+ORD1194,995.33,-677.72,5,Clothing,Sarees,UPI
+ORD1195,643.89,976.13,1,Home & Kitchen,Bedsheets,Debit Card
+ORD1196,3374.35,1489.41,4,Clothing,Jeans,UPI
+ORD1197,465.04,695.26,4,Electronics,Chargers,Debit Card
+ORD1198,2491.02,1454.72,4,Electronics,Chargers,Debit Card
+ORD1199,3739.86,-31.41,4,Electronics,Speakers,Credit Card
+ORD1200,2033.51,-650,3,Beauty & Health,Haircare,Debit Card
+ORD1201,4952.31,170.87,6,Clothing,Jeans,Net Banking
+ORD1202,2887.37,-434.12,9,Beauty & Health,Supplements,UPI
+ORD1203,3247.88,708.66,2,Beauty & Health,Skincare,Debit Card
+ORD1204,2829.89,697.34,2,Electronics,Smart Watches,COD
+ORD1205,2935.01,651.37,9,Clothing,Sarees,COD
+ORD1206,3952.85,-660.94,10,Clothing,T-Shirts,Credit Card
+ORD1207,2353.87,533.98,7,Electronics,Earphones,COD
+ORD1208,4693.28,1317.76,9,Home & Kitchen,Cookware,Credit Card
+ORD1209,3759.5,1258.81,7,Electronics,Earphones,Net Banking
+ORD1210,2625.43,539.8,6,Beauty & Health,Supplements,Credit Card
+ORD1211,738.58,260,5,Clothing,T-Shirts,UPI
+ORD1212,3656.23,-93.7,5,Clothing,T-Shirts,Debit Card
+ORD1213,4053.06,1409.31,6,Clothing,Kurtis,Debit Card
+ORD1214,2990.47,149.17,9,Beauty & Health,Makeup,Credit Card
+ORD1215,3690.99,881.96,8,Home & Kitchen,Bedsheets,Credit Card
+ORD1216,4170.62,345.67,2,Beauty & Health,Supplements,Credit Card
+ORD1217,3566.85,-685.82,7,Home & Kitchen,Cookware,COD
+ORD1218,1483.14,487.65,7,Clothing,Jeans,UPI
+ORD1219,706.5,1156.33,2,Home & Kitchen,Bedsheets,Debit Card
+ORD1220,2390.8,-343.36,3,Electronics,Smart Watches,COD
+ORD1221,1251.21,662.56,10,Electronics,Smart Watches,Credit Card
+ORD1222,3602.75,831.53,3,Electronics,Speakers,Credit Card
+ORD1223,3761.47,-3.74,6,Beauty & Health,Makeup,COD
+ORD1224,4646.53,293.81,1,Electronics,Smart Watches,COD
+ORD1225,4403.84,-103.09,4,Beauty & Health,Skincare,Credit Card
+ORD1226,1053.23,1097.11,7,Electronics,Earphones,Debit Card
+ORD1227,4647.64,692.29,6,Clothing,Sarees,COD
+ORD1228,1677.6,932.99,10,Beauty & Health,Haircare,UPI
+ORD1229,3343.79,273.39,8,Home & Kitchen,Storage,Net Banking
+ORD1230,958.19,-644.02,3,Beauty & Health,Skincare,Debit Card
+ORD1231,4941.16,993.24,10,Home & Kitchen,Decor,Credit Card
+ORD1232,1006.36,51.9,2,Home & Kitchen,Decor,Debit Card
+ORD1233,1560.59,1481.92,5,Home & Kitchen,Bedsheets,Credit Card
+ORD1234,4338.35,235.48,5,Electronics,Chargers,UPI
+ORD1235,3318.73,766.07,9,Electronics,Smart Watches,COD
+ORD1236,1636.56,990.74,1,Clothing,Sarees,Net Banking
+ORD1237,4867.6,1010.91,3,Home & Kitchen,Storage,Debit Card
+ORD1238,2767.68,45.76,10,Electronics,Smart Watches,Debit Card
+ORD1239,4673.9,1374.3,10,Home & Kitchen,Bedsheets,Debit Card
+ORD1240,1867.2,484.65,2,Electronics,Smart Watches,Credit Card
+ORD1241,1589,-77.49,3,Electronics,Chargers,Debit Card
+ORD1242,3925.69,-47.32,3,Electronics,Chargers,UPI
+ORD1243,590.26,-76.69,1,Beauty & Health,Makeup,Net Banking
+ORD1244,3916.19,-450.02,9,Electronics,Speakers,COD
+ORD1245,1717.37,-24.58,8,Clothing,Jeans,COD
+ORD1246,4455.96,1257.45,2,Clothing,Sarees,COD
+ORD1247,3632.49,-108.85,7,Electronics,Chargers,UPI
+ORD1248,593.81,517.29,8,Home & Kitchen,Decor,COD
+ORD1249,4995.67,967.3,7,Clothing,T-Shirts,Net Banking
+ORD1250,3153.48,1142.5,3,Home & Kitchen,Decor,UPI
+ORD1251,4563.93,1289.15,6,Clothing,T-Shirts,Credit Card
+ORD1252,4050.6,-422.15,10,Home & Kitchen,Storage,UPI
+ORD1253,3536.83,824.35,6,Electronics,Smart Watches,Credit Card
+ORD1254,3669.16,716.63,4,Beauty & Health,Skincare,Debit Card
+ORD1255,3091.98,-607.18,7,Home & Kitchen,Bedsheets,Debit Card
+ORD1256,2670.77,22.31,6,Clothing,Jeans,Credit Card
+ORD1257,4193.57,-43.51,3,Beauty & Health,Skincare,Credit Card
+ORD1258,837.11,-41.54,8,Clothing,T-Shirts,Net Banking
+ORD1259,2934.97,-203.53,5,Home & Kitchen,Cookware,UPI
+ORD1260,4973.6,520.72,8,Electronics,Smart Watches,UPI
+ORD1261,422.47,1045.15,6,Home & Kitchen,Decor,Credit Card
+ORD1262,2467.46,-886.24,10,Electronics,Chargers,Credit Card
+ORD1263,528.24,622.84,7,Home & Kitchen,Decor,COD
+ORD1264,1259.26,458.69,4,Electronics,Speakers,Credit Card
+ORD1265,3334.46,1166.45,10,Electronics,Speakers,Credit Card
+ORD1266,730.27,-88.97,8,Electronics,Smart Watches,COD
+ORD1267,3160.55,-551.39,8,Clothing,Sarees,UPI
+ORD1268,1219.39,-714.15,6,Electronics,Speakers,Debit Card
+ORD1269,4290.91,138.95,4,Beauty & Health,Skincare,Debit Card
+ORD1270,4794.96,709.35,9,Beauty & Health,Supplements,Net Banking
+ORD1271,4128.65,-888.76,10,Electronics,Speakers,COD
+ORD1272,1617.29,94.08,8,Beauty & Health,Haircare,UPI
+ORD1273,1452.37,761.35,4,Clothing,Jeans,UPI
+ORD1274,3151.6,589.8,10,Clothing,Jeans,Credit Card
+ORD1275,4588.92,1183.4,9,Electronics,Earphones,Net Banking
+ORD1276,4464.91,642.68,3,Beauty & Health,Makeup,Credit Card
+ORD1277,4566.2,251.69,8,Home & Kitchen,Decor,Credit Card
+ORD1278,1857.09,-942.12,1,Clothing,Sarees,Credit Card
+ORD1279,369.31,-664.16,2,Electronics,Smart Watches,COD
+ORD1280,614.18,-120.91,6,Electronics,Earphones,Net Banking
+ORD1281,565.12,-100.95,3,Beauty & Health,Supplements,UPI
+ORD1282,3486.53,134.44,5,Clothing,Jeans,Debit Card
+ORD1283,3388.32,435.75,7,Clothing,Kurtis,COD
+ORD1284,1651.94,-122.95,1,Beauty & Health,Skincare,Debit Card
+ORD1285,4636.05,873.47,9,Beauty & Health,Haircare,Credit Card
+ORD1286,1560.09,-401.03,7,Beauty & Health,Skincare,Debit Card
+ORD1287,3595.6,-24.7,4,Clothing,Kurtis,COD
+ORD1288,1323.91,88,6,Electronics,Smart Watches,UPI
+ORD1289,451.68,1099.56,10,Clothing,Kurtis,Debit Card
+ORD1290,3770.11,633.65,6,Clothing,T-Shirts,Debit Card
+ORD1291,3306.87,874.39,4,Clothing,Kurtis,COD
+ORD1292,1076.6,978.87,2,Electronics,Speakers,Debit Card
+ORD1293,3437.16,554.26,3,Beauty & Health,Skincare,COD
+ORD1294,2489.62,1234.22,9,Electronics,Chargers,Debit Card
+ORD1295,2654.71,38.58,3,Electronics,Chargers,Credit Card
+ORD1296,2246.98,1471.27,4,Electronics,Chargers,Net Banking
+ORD1297,1264.17,560.1,7,Beauty & Health,Haircare,Net Banking
+ORD1298,4934.2,399.26,2,Home & Kitchen,Decor,Debit Card
+ORD1299,4250.89,650.11,10,Home & Kitchen,Storage,Credit Card
+ORD1300,965.02,-554.11,7,Clothing,T-Shirts,Debit Card
+ORD1301,851.71,1109.13,1,Beauty & Health,Skincare,COD
+ORD1302,3750.18,585.93,8,Electronics,Earphones,Debit Card
+ORD1303,2309.24,547.24,1,Clothing,Kurtis,Net Banking
+ORD1304,3853.91,700.44,4,Electronics,Chargers,Credit Card
+ORD1305,762.23,-147.84,5,Home & Kitchen,Cookware,Credit Card
+ORD1306,2012.09,892.78,7,Clothing,Jeans,COD
+ORD1307,3825.75,564.96,5,Clothing,T-Shirts,UPI
+ORD1308,3724.67,1088.1,1,Clothing,Sarees,Net Banking
+ORD1309,2661.56,-754.81,7,Clothing,Jeans,Debit Card
+ORD1310,2984.66,-15.04,2,Clothing,T-Shirts,COD
+ORD1311,1640.3,1458.65,3,Beauty & Health,Skincare,Credit Card
+ORD1312,4190.13,-312.14,5,Home & Kitchen,Storage,Credit Card
+ORD1313,1981.21,-316.78,7,Clothing,T-Shirts,UPI
+ORD1314,442.72,313.43,7,Electronics,Speakers,Debit Card
+ORD1315,4478.03,834.52,2,Home & Kitchen,Decor,Net Banking
+ORD1316,4938.15,-698.89,7,Electronics,Smart Watches,COD
+ORD1317,2032.77,337.81,2,Home & Kitchen,Decor,Debit Card
+ORD1318,348.76,397,4,Clothing,T-Shirts,UPI
+ORD1319,524.21,1415.22,10,Electronics,Earphones,Net Banking
+ORD1320,4413.04,1296.43,7,Electronics,Earphones,Credit Card
+ORD1321,2719.08,-586.65,2,Beauty & Health,Haircare,UPI
+ORD1322,1866.98,141.49,9,Clothing,Jeans,Credit Card
+ORD1323,1344.27,-538.77,1,Beauty & Health,Haircare,Credit Card
+ORD1324,3543.21,1453.53,7,Beauty & Health,Haircare,Credit Card
+ORD1325,4126.57,-416.05,2,Beauty & Health,Haircare,Credit Card
+ORD1326,4495.19,185.3,9,Clothing,Jeans,COD
+ORD1327,3297.23,-183.45,4,Beauty & Health,Haircare,UPI
+ORD1328,3313,558.8,5,Clothing,Sarees,Debit Card
+ORD1329,741,-10.54,2,Home & Kitchen,Storage,Net Banking
+ORD1330,385.44,-161.73,4,Clothing,Jeans,Credit Card
+ORD1331,3524.16,1053.88,9,Home & Kitchen,Bedsheets,Debit Card
+ORD1332,4825.15,1298.67,9,Electronics,Speakers,COD
+ORD1333,1965.46,765.02,9,Beauty & Health,Makeup,Net Banking
+ORD1334,2571.86,964.39,1,Electronics,Smart Watches,Credit Card
+ORD1335,2601.42,-681.51,10,Beauty & Health,Supplements,Debit Card
+ORD1336,3648.94,1177.18,8,Clothing,Kurtis,Debit Card
+ORD1337,2438.52,134.92,2,Beauty & Health,Skincare,Debit Card
+ORD1338,4405.03,246.58,2,Clothing,Jeans,Credit Card
+ORD1339,2033.47,354.72,1,Clothing,Sarees,Credit Card
+ORD1340,1107.26,1116.91,5,Clothing,Sarees,Net Banking
+ORD1341,4724.95,900.81,7,Beauty & Health,Supplements,COD
+ORD1342,3329.02,-478.77,3,Clothing,Sarees,Net Banking
+ORD1343,1649.66,83.32,1,Clothing,T-Shirts,Debit Card
+ORD1344,1678.4,24.77,1,Electronics,Speakers,Credit Card
+ORD1345,4758.74,1141.98,6,Beauty & Health,Supplements,UPI
+ORD1346,430.28,-328.09,8,Clothing,T-Shirts,Net Banking
+ORD1347,2313.16,538.46,8,Clothing,Jeans,COD
+ORD1348,2662.54,-978.53,3,Electronics,Earphones,COD
+ORD1349,2025.9,1423.67,7,Electronics,Earphones,Debit Card
+ORD1350,2966.84,1458.22,7,Home & Kitchen,Cookware,Net Banking
+ORD1351,4974.27,818.15,2,Clothing,Sarees,COD
+ORD1352,3270.11,-952.97,1,Clothing,Kurtis,COD
+ORD1353,2328.16,-930.9,3,Clothing,T-Shirts,Debit Card
+ORD1354,3530.01,1136.59,7,Electronics,Smart Watches,Credit Card
+ORD1355,3459.52,681.9,3,Electronics,Chargers,COD
+ORD1356,3119.58,-994.48,8,Clothing,Kurtis,UPI
+ORD1357,1242.88,269.59,9,Electronics,Smart Watches,Debit Card
+ORD1358,813.03,1009.67,9,Beauty & Health,Makeup,COD
+ORD1359,398.42,1033.23,8,Home & Kitchen,Decor,Debit Card
+ORD1360,3604.65,806.17,7,Home & Kitchen,Cookware,Credit Card
+ORD1361,4726.44,96.68,2,Beauty & Health,Makeup,Debit Card
+ORD1362,1933.89,-99.92,3,Electronics,Chargers,UPI
+ORD1363,3121.22,1207.45,10,Home & Kitchen,Storage,Credit Card
+ORD1364,3407.84,1357.1,5,Home & Kitchen,Cookware,Net Banking
+ORD1365,1516.71,1156.41,1,Home & Kitchen,Decor,Net Banking
+ORD1366,3017.77,1432.27,8,Home & Kitchen,Storage,COD
+ORD1367,1575.57,1391.85,9,Home & Kitchen,Bedsheets,Debit Card
+ORD1368,2558.42,-13.59,9,Beauty & Health,Haircare,UPI
+ORD1369,4100.74,1072.08,10,Electronics,Smart Watches,Credit Card
+ORD1370,4291.15,248.78,2,Home & Kitchen,Cookware,COD
+ORD1371,1836.12,5.69,4,Beauty & Health,Skincare,Net Banking
+ORD1372,3785.56,586.72,10,Electronics,Speakers,Credit Card
+ORD1373,2827.24,-118.32,3,Clothing,T-Shirts,Net Banking
+ORD1374,2881.41,1428.73,6,Clothing,T-Shirts,Debit Card
+ORD1375,1409.4,-549.53,8,Home & Kitchen,Decor,Credit Card
+ORD1376,3211.33,187.97,5,Beauty & Health,Haircare,Debit Card
+ORD1377,1537.96,59.61,4,Home & Kitchen,Decor,Debit Card
+ORD1378,3599.47,1245.41,10,Clothing,Jeans,Credit Card
+ORD1379,3662.39,613.94,2,Clothing,Jeans,UPI
+ORD1380,2910.67,244.88,8,Beauty & Health,Supplements,Net Banking
+ORD1381,1493.34,1111.18,3,Clothing,Jeans,Debit Card
+ORD1382,4985.47,-577.03,5,Electronics,Chargers,Debit Card
+ORD1383,3680.47,284.93,4,Home & Kitchen,Bedsheets,Net Banking
+ORD1384,863.36,1217.32,7,Home & Kitchen,Cookware,COD
+ORD1385,1567.93,1322.96,5,Clothing,Jeans,Debit Card
+ORD1386,4132.39,779.18,7,Beauty & Health,Haircare,Debit Card
+ORD1387,4648.67,-93.45,3,Electronics,Chargers,Credit Card
+ORD1388,2015.35,-46.14,2,Home & Kitchen,Decor,UPI
+ORD1389,1382.01,-728.97,6,Home & Kitchen,Decor,Credit Card
+ORD1390,3789.58,498.39,4,Home & Kitchen,Bedsheets,COD
+ORD1391,4630.67,699.13,1,Home & Kitchen,Bedsheets,UPI
+ORD1392,3331.43,1223.36,7,Home & Kitchen,Decor,Net Banking
+ORD1393,1514.06,128.28,6,Clothing,Kurtis,Debit Card
+ORD1394,240.51,1161.82,5,Clothing,Jeans,Credit Card
+ORD1395,4919.94,912.33,7,Home & Kitchen,Decor,Net Banking
+ORD1396,2365.89,-430.58,8,Beauty & Health,Haircare,Debit Card
+ORD1397,961.88,-371.27,5,Home & Kitchen,Bedsheets,Debit Card
+ORD1398,2657.36,429.82,1,Electronics,Speakers,Credit Card
+ORD1399,4675.75,-751.98,4,Electronics,Speakers,Net Banking
+ORD1400,4406.59,-957.21,5,Electronics,Speakers,Net Banking
+ORD1401,2715.92,1224.72,3,Beauty & Health,Haircare,UPI
+ORD1402,2819.41,642.03,1,Beauty & Health,Supplements,Net Banking
+ORD1403,230.43,818.98,5,Clothing,Kurtis,COD
+ORD1404,4831.05,1148.18,7,Clothing,Kurtis,Net Banking
+ORD1405,462.27,362.58,5,Home & Kitchen,Cookware,Debit Card
+ORD1406,2225.12,1276.91,5,Home & Kitchen,Decor,COD
+ORD1407,4484.99,982.66,8,Electronics,Chargers,Debit Card
+ORD1408,3314.5,465.9,9,Beauty & Health,Skincare,Debit Card
+ORD1409,980.4,-95.65,5,Electronics,Chargers,Net Banking
+ORD1410,1239.26,1459.6,3,Electronics,Speakers,UPI
+ORD1411,2407.99,696.2,3,Home & Kitchen,Cookware,Net Banking
+ORD1412,2128.55,100.65,4,Clothing,Jeans,COD
+ORD1413,4325.43,-481.24,1,Beauty & Health,Skincare,Net Banking
+ORD1414,1400.52,985.43,3,Electronics,Smart Watches,Credit Card
+ORD1415,2555.51,268.76,8,Beauty & Health,Makeup,Debit Card
+ORD1416,1436.65,1073.61,3,Clothing,Sarees,UPI
+ORD1417,1946.39,131.95,4,Home & Kitchen,Decor,Debit Card
+ORD1418,4291.82,-907.84,2,Beauty & Health,Supplements,UPI
+ORD1419,1252.98,-67.21,4,Clothing,Sarees,UPI
+ORD1420,2842.22,-818.27,1,Home & Kitchen,Cookware,Debit Card
+ORD1421,4830.02,1455.17,10,Home & Kitchen,Storage,UPI
+ORD1422,4704.37,1200.38,2,Home & Kitchen,Bedsheets,Debit Card
+ORD1423,1508.96,829.79,2,Beauty & Health,Makeup,Credit Card
+ORD1424,3947.09,-2.74,3,Electronics,Speakers,Credit Card
+ORD1425,3063.24,1090.79,5,Clothing,Kurtis,Debit Card
+ORD1426,1099.54,1271.2,1,Beauty & Health,Supplements,UPI
+ORD1427,423.5,127.33,7,Home & Kitchen,Decor,Net Banking
+ORD1428,3251.34,273.05,5,Home & Kitchen,Bedsheets,UPI
+ORD1429,4058.77,371.15,7,Beauty & Health,Haircare,Credit Card
+ORD1430,4625.84,555.01,9,Beauty & Health,Supplements,Net Banking
+ORD1431,3261.21,232.59,10,Clothing,Jeans,COD
+ORD1432,3721.74,751.11,6,Electronics,Speakers,UPI
+ORD1433,357.46,684.22,1,Beauty & Health,Haircare,Debit Card
+ORD1434,2096.15,522.39,5,Beauty & Health,Makeup,Net Banking
+ORD1435,1347.74,-680.95,4,Home & Kitchen,Bedsheets,Credit Card
+ORD1436,2662.11,67.06,10,Clothing,T-Shirts,Credit Card
+ORD1437,2170.68,954.73,2,Electronics,Speakers,UPI
+ORD1438,507.85,1029.95,9,Clothing,Jeans,COD
+ORD1439,2099.02,1480.91,9,Clothing,Kurtis,Debit Card
+ORD1440,1247.11,-441.2,10,Clothing,Jeans,COD
+ORD1441,1973.39,1270.2,5,Home & Kitchen,Cookware,Net Banking
+ORD1442,1223.56,21.59,3,Clothing,Jeans,UPI
+ORD1443,2192.34,401.71,2,Electronics,Smart Watches,Credit Card
+ORD1444,3728.85,178.28,9,Electronics,Speakers,UPI
+ORD1445,1485.27,-932.99,9,Clothing,Jeans,UPI
+ORD1446,4452.03,-917.56,5,Clothing,Sarees,Credit Card
+ORD1447,3049.43,-723.94,4,Electronics,Earphones,Credit Card
+ORD1448,3522.1,160.02,3,Beauty & Health,Skincare,UPI
+ORD1449,4322.45,-79,6,Clothing,Kurtis,Net Banking
+ORD1450,2022.1,392.69,8,Home & Kitchen,Cookware,COD
+ORD1451,4261.92,1257.73,9,Electronics,Speakers,COD
+ORD1452,1972.46,29.52,9,Home & Kitchen,Decor,Credit Card
+ORD1453,2739.32,-780.36,9,Beauty & Health,Makeup,COD
+ORD1454,4200.97,867.31,6,Clothing,Sarees,UPI
+ORD1455,1182.65,-45.81,4,Beauty & Health,Skincare,UPI
+ORD1456,4150,1148.2,8,Electronics,Earphones,Credit Card
+ORD1457,2984.98,1378.82,10,Electronics,Earphones,Debit Card
+ORD1458,582.11,880.15,7,Electronics,Earphones,Net Banking
+ORD1459,2457.78,681.79,5,Clothing,Sarees,UPI
+ORD1460,4557.84,1073.06,10,Electronics,Earphones,Debit Card
+ORD1461,3195.77,-60.09,5,Beauty & Health,Skincare,UPI
+ORD1462,701.38,1196.63,6,Home & Kitchen,Storage,Debit Card
+ORD1463,937.38,246.43,10,Clothing,Sarees,Debit Card
+ORD1464,1595.16,185.37,7,Home & Kitchen,Cookware,UPI
+ORD1465,466.8,386.23,8,Beauty & Health,Haircare,Credit Card
+ORD1466,4097.96,46.65,10,Electronics,Earphones,Credit Card
+ORD1467,466.26,-535.56,1,Beauty & Health,Skincare,UPI
+ORD1468,3656.05,407.79,4,Beauty & Health,Skincare,Net Banking
+ORD1469,1922.19,321.41,5,Clothing,T-Shirts,UPI
+ORD1470,2285.66,1176.48,9,Home & Kitchen,Decor,Credit Card
+ORD1471,3515.02,46.91,8,Electronics,Smart Watches,Net Banking
+ORD1472,3069.64,1455.53,4,Electronics,Smart Watches,UPI
+ORD1473,3344.71,195.1,4,Electronics,Speakers,UPI
+ORD1474,545.32,1201.44,10,Beauty & Health,Supplements,Debit Card
+ORD1475,1903.92,795.42,2,Home & Kitchen,Cookware,Net Banking
+ORD1476,3453.27,1458.24,7,Home & Kitchen,Storage,Credit Card
+ORD1477,2234.99,160.63,8,Home & Kitchen,Decor,Debit Card
+ORD1478,4531.22,-856.48,10,Home & Kitchen,Cookware,Debit Card
+ORD1479,3063.68,1349.98,6,Clothing,Kurtis,COD
+ORD1480,849.99,-187.95,8,Electronics,Speakers,COD
+ORD1481,1321.99,-166.92,7,Electronics,Chargers,Net Banking
+ORD1482,3428.21,348.46,9,Beauty & Health,Supplements,COD
+ORD1483,4456.93,1147.87,7,Beauty & Health,Haircare,UPI
+ORD1484,3054.96,-688.44,9,Electronics,Chargers,Credit Card
+ORD1485,3340.88,727.9,7,Clothing,T-Shirts,Debit Card
+ORD1486,2358.38,-131.81,2,Clothing,Sarees,Credit Card
+ORD1487,4567.74,90.73,1,Electronics,Speakers,Debit Card
+ORD1488,436.04,1456.58,4,Beauty & Health,Supplements,Credit Card
+ORD1489,1769.46,1255.55,7,Home & Kitchen,Bedsheets,Net Banking
+ORD1490,3491.1,327.26,5,Electronics,Earphones,Debit Card
+ORD1491,1267.88,1097.48,10,Electronics,Earphones,UPI
+ORD1492,430.13,-198.41,5,Clothing,Jeans,COD
+ORD1493,282.87,264.88,1,Home & Kitchen,Cookware,Credit Card
+ORD1494,1572.08,1061.83,2,Home & Kitchen,Bedsheets,Credit Card
+ORD1495,4028.76,-41.6,1,Clothing,T-Shirts,COD
+ORD1496,1567.19,-21.62,7,Beauty & Health,Supplements,COD
+ORD1497,928.38,276.01,5,Clothing,Sarees,COD
+ORD1498,3211.71,1170.2,10,Beauty & Health,Skincare,Credit Card
+ORD1499,4703.18,791.31,4,Electronics,Earphones,Net Banking
+ORD1500,2493.7,800.38,9,Electronics,Speakers,UPI
+ORD1501,2845.06,1416.65,3,Clothing,Jeans,Net Banking
+ORD1502,2587.54,1229.53,6,Clothing,Sarees,Credit Card
+ORD1503,2316.73,-110.41,2,Beauty & Health,Haircare,Net Banking
+ORD1504,450.98,1460.64,9,Clothing,Jeans,COD
+ORD1505,4000.44,-377.7,1,Electronics,Earphones,COD
+ORD1506,1202.6,731.65,8,Beauty & Health,Makeup,COD
+ORD1507,2104.51,-764.24,5,Beauty & Health,Skincare,UPI
+ORD1508,2533.91,484.28,8,Clothing,Jeans,Net Banking
+ORD1509,4756.21,931.86,9,Home & Kitchen,Bedsheets,Debit Card
+ORD1510,3614.9,171.59,7,Beauty & Health,Makeup,Debit Card
+ORD1511,2517.81,358.38,7,Home & Kitchen,Decor,Net Banking
+ORD1512,1950.95,-49.32,8,Home & Kitchen,Storage,Debit Card
+ORD1513,4329.32,1118.96,8,Electronics,Earphones,UPI
+ORD1514,3827.04,1497.82,5,Beauty & Health,Supplements,UPI
+ORD1515,3749.33,1013.97,10,Electronics,Speakers,Credit Card
+ORD1516,2282.35,-105.94,7,Clothing,Jeans,Debit Card
+ORD1517,3128.13,1320.11,6,Beauty & Health,Makeup,UPI
+ORD1518,4302.29,1128.15,8,Electronics,Speakers,Net Banking
+ORD1519,1426.84,1456.51,9,Electronics,Smart Watches,Credit Card
+ORD1520,1504.85,-547.7,5,Beauty & Health,Makeup,UPI
+ORD1521,3064.26,819.23,4,Beauty & Health,Supplements,COD
+ORD1522,4301.69,883.21,8,Beauty & Health,Supplements,Debit Card
+ORD1523,3351.35,552.65,4,Home & Kitchen,Bedsheets,COD
+ORD1524,878.53,479.45,9,Home & Kitchen,Bedsheets,Net Banking
+ORD1525,2011.39,48.2,5,Electronics,Speakers,UPI
+ORD1526,3738.86,50.07,3,Beauty & Health,Supplements,COD
+ORD1527,3077.88,221.72,7,Electronics,Speakers,UPI
+ORD1528,2374.86,894.95,1,Electronics,Speakers,UPI
+ORD1529,4444.96,-46.51,7,Clothing,Jeans,Net Banking
+ORD1530,4587.66,342.65,10,Electronics,Chargers,UPI
+ORD1531,480.97,896.7,3,Clothing,Kurtis,Debit Card
+ORD1532,4107.99,728.26,1,Clothing,Sarees,Net Banking
+ORD1533,4433.16,-471.99,6,Beauty & Health,Skincare,Net Banking
+ORD1534,4051.67,463.05,3,Electronics,Earphones,UPI
+ORD1535,684.39,-762.16,10,Clothing,Kurtis,Credit Card
+ORD1536,1157.14,159.36,6,Home & Kitchen,Storage,COD
+ORD1537,2181.14,386.99,8,Home & Kitchen,Storage,Credit Card
+ORD1538,1963.43,165.12,10,Clothing,Kurtis,Credit Card
+ORD1539,4552.77,105.74,1,Home & Kitchen,Decor,Credit Card
+ORD1540,3174.75,28.07,4,Beauty & Health,Supplements,Credit Card
+ORD1541,1218.65,439.62,7,Electronics,Chargers,COD
+ORD1542,834.57,-887.14,1,Electronics,Chargers,UPI
+ORD1543,2386.14,-399.18,7,Beauty & Health,Supplements,Debit Card
+ORD1544,3384.19,-851.27,2,Clothing,Sarees,Net Banking
+ORD1545,4721.13,1280.67,9,Clothing,Jeans,COD
+ORD1546,4670.83,-553.53,4,Beauty & Health,Skincare,Debit Card
+ORD1547,2432.61,849.36,8,Home & Kitchen,Storage,Debit Card
+ORD1548,1626.3,-343.01,1,Beauty & Health,Skincare,Debit Card
+ORD1549,4379.44,114.76,9,Beauty & Health,Skincare,Net Banking
+ORD1550,3571.5,-213.62,4,Clothing,Sarees,Debit Card
+ORD1551,3762.52,487.69,10,Beauty & Health,Haircare,COD
+ORD1552,2559.75,-686.89,6,Beauty & Health,Haircare,COD
+ORD1553,1913.7,-639.04,8,Beauty & Health,Supplements,UPI
+ORD1554,2893.19,75.61,10,Clothing,Sarees,UPI
+ORD1555,2527.3,1204.71,4,Clothing,Sarees,UPI
+ORD1556,4473.4,355.69,10,Electronics,Speakers,UPI
+ORD1557,2900.98,649.64,8,Beauty & Health,Makeup,Debit Card
+ORD1558,2138.67,-617.75,10,Home & Kitchen,Decor,Credit Card
+ORD1559,744.37,58.09,7,Beauty & Health,Supplements,Net Banking
+ORD1560,4994.03,385.23,2,Clothing,T-Shirts,UPI
+ORD1561,1630.67,-100.1,2,Electronics,Smart Watches,Net Banking
+ORD1562,2163.11,18.23,10,Electronics,Earphones,COD
+ORD1563,1871.13,814.25,7,Home & Kitchen,Storage,UPI
+ORD1564,3437.66,87.94,2,Beauty & Health,Skincare,Net Banking
+ORD1565,1296.39,-42.07,4,Beauty & Health,Makeup,UPI
+ORD1566,3827.04,387.53,4,Home & Kitchen,Storage,Credit Card
+ORD1567,4980.45,898.4,6,Beauty & Health,Skincare,Debit Card
+ORD1568,4206.36,-69.3,1,Home & Kitchen,Storage,UPI
+ORD1569,292.67,1194.45,10,Electronics,Chargers,Net Banking
+ORD1570,2148.79,561.27,1,Home & Kitchen,Bedsheets,Credit Card
+ORD1571,863.72,-633.45,4,Home & Kitchen,Storage,UPI
+ORD1572,1201.75,1020.26,1,Home & Kitchen,Bedsheets,COD
+ORD1573,1948.58,1467.15,5,Home & Kitchen,Storage,UPI
+ORD1574,4250.38,301.04,9,Beauty & Health,Supplements,UPI
+ORD1575,3802.7,-625.37,7,Home & Kitchen,Cookware,Credit Card
+ORD1576,4908.97,164.04,1,Clothing,Sarees,COD
+ORD1577,3047.46,-146.62,9,Home & Kitchen,Bedsheets,Net Banking
+ORD1578,4694,683.31,6,Electronics,Earphones,Net Banking
+ORD1579,2392.04,180.95,7,Clothing,Sarees,Debit Card
+ORD1580,2586.08,547.95,3,Home & Kitchen,Storage,Debit Card
+ORD1581,477.58,1075.72,7,Electronics,Earphones,Net Banking
+ORD1582,793.52,833.57,8,Home & Kitchen,Cookware,Credit Card
+ORD1583,585.32,181.6,4,Electronics,Smart Watches,Credit Card
+ORD1584,895.33,1449.2,6,Clothing,T-Shirts,UPI
+ORD1585,4244.92,-41.57,4,Home & Kitchen,Bedsheets,UPI
+ORD1586,1238.36,1211.73,4,Electronics,Earphones,Credit Card
+ORD1587,3481.51,677.7,3,Beauty & Health,Haircare,Net Banking
+ORD1588,4893.23,416.69,5,Home & Kitchen,Decor,COD
+ORD1589,3211.16,317.69,8,Home & Kitchen,Storage,COD
+ORD1590,602.87,-327.52,1,Electronics,Chargers,UPI
+ORD1591,445.98,1307.24,9,Home & Kitchen,Cookware,UPI
+ORD1592,4898.57,738.05,10,Beauty & Health,Haircare,Credit Card
+ORD1593,4566.63,1478.91,7,Electronics,Smart Watches,COD
+ORD1594,451.5,-60.78,6,Clothing,T-Shirts,Debit Card
+ORD1595,1282.18,47.46,3,Electronics,Earphones,COD
+ORD1596,4868.7,465.21,8,Home & Kitchen,Cookware,Net Banking
+ORD1597,2667.9,165.2,8,Home & Kitchen,Bedsheets,COD
+ORD1598,2567,795.67,3,Home & Kitchen,Cookware,Net Banking
+ORD1599,536.08,-185.14,2,Home & Kitchen,Decor,Debit Card
+ORD1600,3942.76,721.61,7,Electronics,Chargers,UPI
+ORD1601,1507.07,-951.04,4,Clothing,Kurtis,UPI
+ORD1602,2792.22,1236.83,8,Electronics,Chargers,Net Banking
+ORD1603,2814.21,791.91,6,Home & Kitchen,Cookware,Credit Card
+ORD1604,3398.1,-174.9,5,Clothing,Jeans,Net Banking
+ORD1605,977.86,-129.13,6,Beauty & Health,Haircare,COD
+ORD1606,4259.78,1393.7,8,Electronics,Speakers,Credit Card
+ORD1607,3725.89,1156.96,6,Clothing,Kurtis,UPI
+ORD1608,2749.81,657.31,2,Home & Kitchen,Storage,COD
+ORD1609,4180.74,233.82,7,Clothing,T-Shirts,Net Banking
+ORD1610,3867.16,-574.3,9,Home & Kitchen,Decor,Debit Card
+ORD1611,3310.85,118.42,8,Beauty & Health,Haircare,Credit Card
+ORD1612,4366.57,964.51,4,Beauty & Health,Supplements,Credit Card
+ORD1613,3993.48,1386.48,6,Electronics,Chargers,UPI
+ORD1614,4606.92,1177.11,3,Electronics,Earphones,Credit Card
+ORD1615,1109.31,483.72,1,Clothing,Sarees,COD
+ORD1616,1118.13,1200.91,7,Electronics,Chargers,Credit Card
+ORD1617,2917.87,823.24,10,Beauty & Health,Makeup,UPI
+ORD1618,3444.73,-40.81,10,Clothing,Sarees,UPI
+ORD1619,4897.14,-33.93,3,Electronics,Speakers,Credit Card
+ORD1620,544.5,206.02,1,Electronics,Speakers,UPI
+ORD1621,1604.39,-139.72,1,Electronics,Chargers,Credit Card
+ORD1622,776.61,-764.76,4,Beauty & Health,Haircare,Debit Card
+ORD1623,1306.93,1309.78,10,Clothing,Sarees,Debit Card
+ORD1624,304.64,-655.45,9,Clothing,Kurtis,UPI
+ORD1625,4334.49,645.07,5,Electronics,Smart Watches,Net Banking
+ORD1626,4180.83,940.78,5,Clothing,Kurtis,COD
+ORD1627,4514.02,1102.25,9,Electronics,Speakers,Credit Card
+ORD1628,3558.59,691.72,9,Beauty & Health,Haircare,COD
+ORD1629,1536.57,958.81,8,Home & Kitchen,Decor,Debit Card
+ORD1630,381.62,7.61,6,Home & Kitchen,Decor,Net Banking
+ORD1631,1212.7,1411.41,4,Beauty & Health,Makeup,Debit Card
+ORD1632,4768.77,1033.3,6,Home & Kitchen,Bedsheets,Credit Card
+ORD1633,1207.97,1446.2,2,Electronics,Earphones,Debit Card
+ORD1634,4868.24,1029.1,5,Electronics,Earphones,UPI
+ORD1635,859.26,-66.47,7,Electronics,Speakers,Credit Card
+ORD1636,4574.08,1005.24,2,Beauty & Health,Makeup,Net Banking
+ORD1637,688.23,962,5,Electronics,Smart Watches,Net Banking
+ORD1638,2257.05,-24.96,6,Clothing,Jeans,Debit Card
+ORD1639,3277.31,-419.58,1,Beauty & Health,Makeup,COD
+ORD1640,262.27,1456.95,6,Clothing,Sarees,COD
+ORD1641,338.48,1061.36,6,Clothing,T-Shirts,UPI
+ORD1642,4995.98,-75.97,2,Home & Kitchen,Storage,UPI
+ORD1643,1285.13,393.43,9,Clothing,T-Shirts,UPI
+ORD1644,4686.94,503.47,6,Clothing,Kurtis,COD
+ORD1645,1277.31,723.35,8,Beauty & Health,Haircare,COD
+ORD1646,4531.81,905.57,7,Home & Kitchen,Cookware,Debit Card
+ORD1647,3555.44,362.27,1,Clothing,T-Shirts,Net Banking
+ORD1648,1835.86,486.12,10,Beauty & Health,Makeup,UPI
+ORD1649,1561.48,-22.31,2,Clothing,Kurtis,Credit Card
+ORD1650,1283.85,46.03,9,Home & Kitchen,Bedsheets,COD
+ORD1651,974.51,114.36,6,Clothing,Jeans,COD
+ORD1652,3942.59,615.3,5,Clothing,Kurtis,UPI
+ORD1653,2745.98,-863.69,4,Beauty & Health,Skincare,UPI
+ORD1654,2354.51,1218.91,5,Beauty & Health,Makeup,COD
+ORD1655,4507.07,243.68,5,Home & Kitchen,Decor,UPI
+ORD1656,3066.91,247.88,9,Electronics,Chargers,Debit Card
+ORD1657,2102.69,55.58,8,Electronics,Speakers,Net Banking
+ORD1658,417.6,1084.41,3,Beauty & Health,Makeup,COD
+ORD1659,4922.58,1422.96,2,Clothing,T-Shirts,Net Banking
+ORD1660,2606.48,-145.31,4,Home & Kitchen,Decor,Credit Card
+ORD1661,655.42,492.2,6,Electronics,Chargers,Debit Card
+ORD1662,1829.44,-181.2,2,Clothing,Kurtis,Net Banking
+ORD1663,549.57,307.01,2,Clothing,Sarees,UPI
+ORD1664,3656.93,503.24,3,Beauty & Health,Supplements,Credit Card
+ORD1665,2801.32,-225.95,6,Clothing,Kurtis,COD
+ORD1666,2891.14,32.22,2,Clothing,Jeans,COD
+ORD1667,507.76,698.11,8,Beauty & Health,Makeup,Debit Card
+ORD1668,3084.38,632.47,1,Home & Kitchen,Decor,Net Banking
+ORD1669,4097.96,-569.03,4,Clothing,Sarees,Debit Card
+ORD1670,1242.22,374.65,7,Home & Kitchen,Storage,Net Banking
+ORD1671,1670.29,-897.16,8,Home & Kitchen,Decor,Net Banking
+ORD1672,236.98,1194.81,7,Electronics,Chargers,Credit Card
+ORD1673,4115.62,491.54,6,Beauty & Health,Makeup,UPI
+ORD1674,4877.49,-417.23,5,Home & Kitchen,Decor,Credit Card
+ORD1675,2509.76,1373.29,8,Beauty & Health,Haircare,Credit Card
+ORD1676,2344.18,-180.41,8,Home & Kitchen,Decor,UPI
+ORD1677,1574.33,1334.42,8,Electronics,Earphones,Debit Card
+ORD1678,2058.37,710.89,4,Home & Kitchen,Storage,COD
+ORD1679,3732.36,703.35,9,Clothing,Sarees,COD
+ORD1680,3014.25,-118.82,1,Beauty & Health,Supplements,Debit Card
+ORD1681,458.97,-465.53,7,Home & Kitchen,Storage,Credit Card
+ORD1682,2132.22,1459.61,3,Clothing,Sarees,COD
+ORD1683,1568.62,-131.33,6,Home & Kitchen,Cookware,Debit Card
+ORD1684,2503.55,719.49,1,Home & Kitchen,Cookware,UPI
+ORD1685,2788.65,993.27,5,Electronics,Chargers,Debit Card
+ORD1686,4405.85,10.53,8,Clothing,Kurtis,UPI
+ORD1687,745.17,-693.58,10,Home & Kitchen,Bedsheets,COD
+ORD1688,1229.45,415.95,2,Electronics,Smart Watches,Net Banking
+ORD1689,4927.56,-112.75,6,Electronics,Speakers,Net Banking
+ORD1690,4905.49,392.35,10,Clothing,Jeans,Net Banking
+ORD1691,4742.44,551.82,4,Electronics,Speakers,Credit Card
+ORD1692,3311.15,454.86,8,Home & Kitchen,Decor,COD
+ORD1693,2593.58,-764.78,7,Electronics,Speakers,Credit Card
+ORD1694,4271.29,1236.14,2,Home & Kitchen,Cookware,COD
+ORD1695,2522.42,127.5,7,Electronics,Speakers,UPI
+ORD1696,238.48,-42.38,2,Home & Kitchen,Storage,Credit Card
+ORD1697,2027.38,-148.84,1,Home & Kitchen,Decor,UPI
+ORD1698,3252.41,-292.07,5,Home & Kitchen,Decor,Credit Card
+ORD1699,2127.49,521.61,3,Electronics,Chargers,Net Banking
+ORD1700,4154.49,314.54,3,Electronics,Chargers,Net Banking
+ORD1701,1606.41,93.92,5,Beauty & Health,Skincare,Credit Card
+ORD1702,701.11,1176.05,5,Clothing,Sarees,Debit Card
+ORD1703,660.13,1319.69,10,Beauty & Health,Skincare,Credit Card
+ORD1704,2502.46,309.49,6,Beauty & Health,Supplements,Credit Card
+ORD1705,4982.06,361.59,7,Electronics,Speakers,Net Banking
+ORD1706,2570.7,37.06,7,Beauty & Health,Skincare,UPI
+ORD1707,4604.34,1006.36,9,Clothing,Jeans,Credit Card
+ORD1708,2630.76,102.94,10,Beauty & Health,Skincare,Credit Card
+ORD1709,3108.08,1423.37,7,Electronics,Speakers,Debit Card
+ORD1710,785.32,164.98,6,Clothing,Kurtis,Debit Card
+ORD1711,1920.28,-183.73,10,Clothing,T-Shirts,Net Banking
+ORD1712,4074.31,-97.29,5,Clothing,T-Shirts,Net Banking
+ORD1713,3579.23,256.76,9,Beauty & Health,Makeup,UPI
+ORD1714,4813.61,-90.91,6,Home & Kitchen,Storage,Net Banking
+ORD1715,1129.34,982.2,10,Home & Kitchen,Cookware,COD
+ORD1716,560.93,1450.01,10,Clothing,Jeans,COD
+ORD1717,4436.03,-694.04,3,Home & Kitchen,Decor,Debit Card
+ORD1718,3824.51,221.34,7,Beauty & Health,Makeup,Debit Card
+ORD1719,946.16,1256.84,9,Home & Kitchen,Bedsheets,Net Banking
+ORD1720,3301.13,-134.64,3,Beauty & Health,Haircare,COD
+ORD1721,821.67,1396.41,8,Beauty & Health,Skincare,UPI
+ORD1722,4659.93,-95.38,3,Clothing,Kurtis,COD
+ORD1723,2256.93,1253.56,6,Home & Kitchen,Decor,UPI
+ORD1724,3657.22,972.76,2,Beauty & Health,Skincare,UPI
+ORD1725,987.12,866.97,9,Clothing,Kurtis,UPI
+ORD1726,4151.54,1118.37,4,Clothing,Sarees,Debit Card
+ORD1727,3674.75,921.55,6,Clothing,Sarees,Debit Card
+ORD1728,2416.28,84.98,4,Home & Kitchen,Storage,UPI
+ORD1729,3343.36,274.87,1,Clothing,T-Shirts,UPI
+ORD1730,1886.27,743.48,6,Electronics,Earphones,Net Banking
+ORD1731,2853.83,110.41,10,Clothing,Sarees,Debit Card
+ORD1732,1738.65,-815.62,6,Beauty & Health,Supplements,UPI
+ORD1733,4298.85,-349.86,2,Electronics,Chargers,Debit Card
+ORD1734,3884.51,-68.59,5,Electronics,Earphones,COD
+ORD1735,3758.09,356.37,4,Home & Kitchen,Cookware,COD
+ORD1736,4596.8,-164.1,7,Electronics,Chargers,Credit Card
+ORD1737,3663.58,95.46,8,Electronics,Chargers,Debit Card
+ORD1738,2066.92,1409.41,7,Beauty & Health,Makeup,Net Banking
+ORD1739,3941.62,1334.16,9,Electronics,Chargers,Credit Card
+ORD1740,1017.48,1245.96,5,Clothing,Jeans,Credit Card
+ORD1741,2642.56,-149.83,9,Electronics,Smart Watches,UPI
+ORD1742,1210.32,579.65,10,Clothing,Kurtis,UPI
+ORD1743,4554.51,90.67,2,Beauty & Health,Haircare,Debit Card
+ORD1744,2490.02,-945.68,1,Clothing,T-Shirts,Debit Card
+ORD1745,298.51,1095.3,4,Clothing,Jeans,UPI
+ORD1746,1972.65,709.15,4,Home & Kitchen,Bedsheets,Net Banking
+ORD1747,1071.01,1126.86,5,Electronics,Speakers,COD
+ORD1748,3663.21,-243.61,10,Electronics,Speakers,UPI
+ORD1749,2418.39,351.63,6,Home & Kitchen,Bedsheets,Debit Card
+ORD1750,3526.73,-12.02,7,Home & Kitchen,Cookware,Net Banking
+ORD1751,2831.2,-661.93,5,Home & Kitchen,Bedsheets,Net Banking
+ORD1752,3671.95,829.22,5,Clothing,T-Shirts,Credit Card
+ORD1753,4995.58,628.73,1,Clothing,Sarees,UPI
+ORD1754,2561.69,274.78,7,Home & Kitchen,Decor,Credit Card
+ORD1755,2793.56,1298.68,10,Home & Kitchen,Bedsheets,COD
+ORD1756,2301.87,-858.19,9,Home & Kitchen,Bedsheets,Net Banking
+ORD1757,335.66,1334.35,2,Electronics,Earphones,UPI
+ORD1758,3927.05,523.42,7,Electronics,Earphones,Credit Card
+ORD1759,3783.65,708.61,9,Beauty & Health,Supplements,Credit Card
+ORD1760,3173.25,328.46,6,Clothing,Jeans,Credit Card
+ORD1761,352.73,-19.01,9,Electronics,Speakers,Net Banking
+ORD1762,3952.84,1349.92,10,Home & Kitchen,Cookware,Debit Card
+ORD1763,2393.62,1231.76,2,Clothing,Kurtis,COD
+ORD1764,4641.81,1372.85,6,Beauty & Health,Haircare,Debit Card
+ORD1765,1752.65,-83.6,4,Clothing,T-Shirts,Credit Card
+ORD1766,2587.17,253.31,1,Home & Kitchen,Cookware,Debit Card
+ORD1767,2721.25,-785.35,9,Beauty & Health,Makeup,COD
+ORD1768,3999.17,473.44,1,Electronics,Earphones,Credit Card
+ORD1769,4239.79,188.08,2,Clothing,Kurtis,Credit Card
+ORD1770,4294.98,521.42,5,Electronics,Chargers,COD
+ORD1771,4453.8,1039.71,5,Home & Kitchen,Decor,UPI
+ORD1772,3852.69,1210.93,5,Electronics,Earphones,Credit Card
+ORD1773,1981.92,501.73,5,Home & Kitchen,Decor,Credit Card
+ORD1774,4008.75,246.51,2,Beauty & Health,Skincare,UPI
+ORD1775,288.25,1029.34,2,Electronics,Smart Watches,Debit Card
+ORD1776,1536.43,-115.88,4,Beauty & Health,Supplements,Credit Card
+ORD1777,255.99,1110.85,5,Beauty & Health,Supplements,Credit Card
+ORD1778,2964.59,1153.49,2,Home & Kitchen,Cookware,COD
+ORD1779,325.64,589.97,6,Home & Kitchen,Cookware,Net Banking
+ORD1780,694.95,1196.25,7,Clothing,T-Shirts,Net Banking
+ORD1781,3107.95,-117.69,3,Clothing,Sarees,Credit Card
+ORD1782,4195.89,622.69,1,Home & Kitchen,Decor,Debit Card
+ORD1783,3485.56,48.14,2,Beauty & Health,Makeup,COD
+ORD1784,3074.38,1188.48,3,Beauty & Health,Makeup,Debit Card
+ORD1785,1555.76,300.04,2,Clothing,Sarees,Credit Card
+ORD1786,415.97,1337.1,6,Beauty & Health,Skincare,COD
+ORD1787,1087.19,853.37,4,Beauty & Health,Skincare,UPI
+ORD1788,426.33,1269.33,8,Clothing,Jeans,Credit Card
+ORD1789,2530.29,1103.04,9,Clothing,T-Shirts,Debit Card
+ORD1790,4574.1,-37.85,5,Electronics,Chargers,Net Banking
+ORD1791,511.58,822,7,Home & Kitchen,Cookware,Debit Card
+ORD1792,4034.67,-157.63,6,Electronics,Chargers,UPI
+ORD1793,1116.93,-555.78,4,Home & Kitchen,Storage,Net Banking
+ORD1794,4553.86,-615.09,3,Electronics,Chargers,Debit Card
+ORD1795,2508.06,882.98,10,Electronics,Chargers,UPI
+ORD1796,3769.87,1343.97,5,Home & Kitchen,Storage,COD
+ORD1797,2493.67,1072.91,5,Beauty & Health,Makeup,UPI
+ORD1798,556.06,-504.09,2,Clothing,T-Shirts,Net Banking
+ORD1799,2457.5,1434.66,7,Clothing,Kurtis,Net Banking
+ORD1800,341.04,858.94,2,Beauty & Health,Haircare,Credit Card
+ORD1801,2063.76,802.67,2,Clothing,Sarees,Net Banking
+ORD1802,940.85,187.7,9,Electronics,Earphones,Debit Card
+ORD1803,1130.04,1272.44,10,Electronics,Chargers,Credit Card
+ORD1804,1442.65,1317.99,3,Clothing,T-Shirts,COD
+ORD1805,3553.08,1359.27,5,Electronics,Smart Watches,Credit Card
+ORD1806,1171.47,-619.65,5,Clothing,Kurtis,UPI
+ORD1807,1176.09,80.63,1,Electronics,Smart Watches,COD
+ORD1808,1931.67,-170.39,2,Electronics,Earphones,COD
+ORD1809,1662.72,-188.53,6,Clothing,Kurtis,UPI
+ORD1810,2320.12,-743.66,7,Beauty & Health,Supplements,Debit Card
+ORD1811,3397.97,1041.32,10,Clothing,Kurtis,Net Banking
+ORD1812,1027.38,753.73,9,Electronics,Smart Watches,Credit Card
+ORD1813,748.52,-792.28,8,Beauty & Health,Haircare,Credit Card
+ORD1814,1004.01,1196.33,3,Electronics,Smart Watches,Net Banking
+ORD1815,1426.49,574.01,8,Clothing,Jeans,UPI
+ORD1816,4039.1,-39.15,9,Home & Kitchen,Bedsheets,COD
+ORD1817,993.55,1340.09,9,Clothing,Kurtis,COD
+ORD1818,2654.82,562.23,7,Electronics,Earphones,UPI
+ORD1819,3234.49,369.9,9,Beauty & Health,Skincare,Net Banking
+ORD1820,3885.29,-125.58,9,Clothing,Sarees,COD
+ORD1821,1665.92,-107.3,10,Beauty & Health,Haircare,Credit Card
+ORD1822,2902.32,1449.84,4,Beauty & Health,Haircare,COD
+ORD1823,2945.27,392.71,3,Beauty & Health,Skincare,COD
+ORD1824,3512.89,1125.59,7,Beauty & Health,Makeup,Credit Card
+ORD1825,4626.77,637.79,3,Home & Kitchen,Bedsheets,Net Banking
+ORD1826,4341.09,-198.66,2,Beauty & Health,Skincare,UPI
+ORD1827,2228.01,897.56,10,Beauty & Health,Skincare,Debit Card
+ORD1828,301.71,-17.49,3,Home & Kitchen,Storage,Net Banking
+ORD1829,2511.16,1182.36,6,Clothing,Sarees,UPI
+ORD1830,4695.35,1248.08,6,Home & Kitchen,Bedsheets,UPI
+ORD1831,1727.12,-3.52,1,Beauty & Health,Skincare,COD
+ORD1832,4816.51,369.91,6,Home & Kitchen,Cookware,Debit Card
+ORD1833,4069.16,-148.91,9,Clothing,Jeans,Debit Card
+ORD1834,1502.81,1044.94,10,Electronics,Speakers,UPI
+ORD1835,1451.14,-377.89,1,Clothing,Sarees,UPI
+ORD1836,1661.87,576.57,3,Electronics,Speakers,Net Banking
+ORD1837,4876.21,364.44,3,Beauty & Health,Haircare,Credit Card
+ORD1838,479.28,408.97,6,Electronics,Smart Watches,Debit Card
+ORD1839,4887.57,620.9,7,Electronics,Chargers,Net Banking
+ORD1840,4691.64,-780.34,5,Home & Kitchen,Bedsheets,Credit Card
+ORD1841,2235.18,800.36,6,Electronics,Earphones,COD
+ORD1842,2319.14,169.01,7,Clothing,Sarees,Credit Card
+ORD1843,1517.37,761.73,7,Clothing,T-Shirts,COD
+ORD1844,850.25,806.47,3,Beauty & Health,Skincare,Debit Card
+ORD1845,3156.64,353.49,4,Beauty & Health,Supplements,Debit Card
+ORD1846,1055.65,1490.53,4,Beauty & Health,Supplements,Credit Card
+ORD1847,473.65,66.37,5,Home & Kitchen,Cookware,Debit Card
+ORD1848,4925.28,156.89,8,Beauty & Health,Makeup,Credit Card
+ORD1849,3344.05,514.99,10,Electronics,Smart Watches,COD
